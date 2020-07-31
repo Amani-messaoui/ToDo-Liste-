@@ -1,0 +1,17 @@
+h3{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 40px;
+letter-spacing: 0.4px;
+word-spacing: 2px;
+color: #910D21;
+font-weight: normal;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: capitalize;
+margin-left: 20px;
+}
+.App{
+  margin-top: 220px;
+  margin-left: 125px;
+}
